@@ -4,4 +4,4 @@
 - @Hulk (@Bulk, mongodb)
 - con,soo (console.log attempt)
 - git staut (git status)
-- subt__react__ (subtract)
+- subtreact (subtract)
