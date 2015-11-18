@@ -5,3 +5,7 @@
 - con,soo (console.log attempt)
 - git staut (git status)
 - subtreact (subtract)
+- tryong (trying)
+- cleardix (clearfix)
+- .tmpyu (.empty)
+- qma ll (small)
