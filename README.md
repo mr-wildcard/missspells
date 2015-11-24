@@ -9,3 +9,7 @@
 - cleardix (clearfix)
 - .tmpyu (.empty)
 - qma ll (small)
+- heihjy (height)
+- console<log5 (console.log)
+- Object.ass (.assign)
+- bonez (node)
