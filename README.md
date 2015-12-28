@@ -11,5 +11,6 @@
 - qma ll (small)
 - heihjy (height)
 - console<log5 (console.log)
-- Object.ass (.assign)
+- Object.ass() (Object.assign())
 - bonez (node)
+- boecjt (object)
