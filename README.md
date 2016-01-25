@@ -14,3 +14,5 @@
 - Object.ass() (Object.assign())
 - bonez (node)
 - boecjt (object)
+- srtlenA (styleName)
+- toor (root)
