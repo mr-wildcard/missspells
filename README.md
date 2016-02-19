@@ -20,3 +20,4 @@
 - kiad (load)
 - klrgy (left)
 - co,aerrti (container)
+- lcikc (click)
